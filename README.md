@@ -6,3 +6,4 @@ Developing an avenue-shopping-cart web app using Vue.js complete with secure log
 # Demo
 
 ##### Here's Working demo
+[New Recording - 5_17_2023, 12_44_18 PM.webm](https://github.com/mdsiamsheikh/vue-shopping-cart/assets/97788837/fb836ab4-0f2a-449a-a84c-5eb082b41f22)
